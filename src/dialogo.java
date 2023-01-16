@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class dialogo {
+
+public class dialogo {
+
 }
